@@ -58,7 +58,15 @@
     - [CachedIntrospectionResults](/docs/beans/CachedIntrospectionResults/Readme.md)
         - [CachedIntrospectionResults](/docs/beans/CachedIntrospectionResults/Spring-CachedIntrospectionResults.md)
 
+    - [BeanWrapper导读](/docs/beans/BeanWrapper/Readme.md)
+        - [BeanWrapper](/docs/beans/BeanWrapper/Spring-BeanWrapper.md)
+        - [BeanWrapperImpl](/docs/beans/BeanWrapper/Spring-BeanWrapperImpl.md)
+        
+    - [PropertyAccessor导读](/docs/beans/PropertyAccessor/Readme.md)
+        - [AbstractPropertyAccessor](/docs/beans/PropertyAccessor/Spring-AbstractPropertyAccessor.md)
+        - [PropertyAccessor](/docs/beans/PropertyAccessor/Spring-PropertyAccessor.md)
     
+    - [ConfigurablePropertyAccessor](/docs/beans/ConfigurablePropertyAccessor/Spring-ConfigurablePropertyAccessor.md)
     
 - Spring Core
     - registry
