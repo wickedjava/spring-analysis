@@ -1,4 +1,4 @@
-[Spring-Analysis] v0.0.8 BeanInfoFactory
+[Spring-Analysis] v0.0.8 BeanWrapper
 Spring-Analysis 是一个围绕 springframework 进行源码分析的项目。v0.0.8 版本现已发布. 
 
 - 新增 BeanWrapper 相关分析
