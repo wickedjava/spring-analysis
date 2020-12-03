@@ -102,6 +102,13 @@
     
     
     
+#### Spring InstantiationStrategy 相关接口分析
+- [InstantiationStrategy导读](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Readme.md)
+    - [InstantiationStrategy](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Spring-InstantiationStrategy.md)
+    - [Spring-SimpleInstantiationStrategy](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Spring-SimpleInstantiationStrategy.md)
+    - [Spring-CglibSubclassingInstantiationStrategy](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Spring-CglibSubclassingInstantiationStrategy.md)
+    
+    
 
 ### SpringCore相关分析
 #### Spring Registry 相关分析
@@ -139,6 +146,17 @@
 - [AttributeAccessor](/docs/core/AttributeAccessor/Spring-AttributeAccessor.md)
 - [AttributeAccessorSupport](/docs/core/AttributeAccessor/Spring-AttributeAccessorSupport.md)
 
+
+#### Spring ParameterNameDiscoverer 相关分析
+- [ParameterNameDiscoverer 参数名称发现器](/docs/core/ParameterNameDiscoverer/Readme.md)
+    - **[StandardReflectionParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-StandardReflectionParameterNameDiscoverer.md)**
+    - [AspectJAdviceParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-AspectJAdviceParameterNameDiscoverer-未完成.md)
+    - [KotlinReflectionParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-KotlinReflectionParameterNameDiscoverer.md)
+    - [PrioritizedParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-PrioritizedParameterNameDiscoverer.md)
+        - [DefaultParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-DefaultParameterNameDiscoverer.md)
+    - [AspectJAnnotationParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-AspectJAnnotationParameterNameDiscoverer.md)
+    - [LocalVariableTableParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-LocalVariableTableParameterNameDiscoverer.md)
+    
 
 ### Spring环境相关分析
 

@@ -67,6 +67,12 @@
         - [PropertyAccessor](/docs/beans/PropertyAccessor/Spring-PropertyAccessor.md)
     
     - [ConfigurablePropertyAccessor](/docs/beans/ConfigurablePropertyAccessor/Spring-ConfigurablePropertyAccessor.md)
+   
+    - [Property](/docs/beans/Property/Spring-Property.md)
+    - [InstantiationStrategy导读](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Readme.md)
+        - [InstantiationStrategy](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Spring-InstantiationStrategy.md)
+        - [Spring-SimpleInstantiationStrategy](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Spring-SimpleInstantiationStrategy.md)
+        - [Spring-CglibSubclassingInstantiationStrategy](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Spring-CglibSubclassingInstantiationStrategy.md)
     
 - Spring Core
     - registry
@@ -98,6 +104,17 @@
     - AttributeAccessor
         - [AttributeAccessor](/docs/core/AttributeAccessor/Spring-AttributeAccessor.md)
         - [AttributeAccessorSupport](/docs/core/AttributeAccessor/Spring-AttributeAccessorSupport.md)
+        
+    - [ParameterNameDiscoverer 参数名称发现器](/docs/core/ParameterNameDiscoverer/Readme.md)
+        - **[StandardReflectionParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-StandardReflectionParameterNameDiscoverer.md)**
+        - [AspectJAdviceParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-AspectJAdviceParameterNameDiscoverer-未完成.md)
+        - [KotlinReflectionParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-KotlinReflectionParameterNameDiscoverer.md)
+        - [PrioritizedParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-PrioritizedParameterNameDiscoverer.md)
+            - [DefaultParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-DefaultParameterNameDiscoverer.md)
+        - [AspectJAnnotationParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-AspectJAnnotationParameterNameDiscoverer.md)
+        - [LocalVariableTableParameterNameDiscoverer](/docs/core/ParameterNameDiscoverer/Spring-LocalVariableTableParameterNameDiscoverer.md)
+        
+        
 - Spring Env
     - [PropertyResolver](/docs/env/PropertyResolver/Readme.md)
     - [Spring-AbstractPropertyResolver](/docs/env/PropertyResolver/Spring-AbstractPropertyResolver.md)
