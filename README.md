@@ -107,7 +107,16 @@
     - [InstantiationStrategy](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Spring-InstantiationStrategy.md)
     - [Spring-SimpleInstantiationStrategy](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Spring-SimpleInstantiationStrategy.md)
     - [Spring-CglibSubclassingInstantiationStrategy](/docs/beans/factory/BeanFactory/support/InstantiationStrategy/Spring-CglibSubclassingInstantiationStrategy.md)
-    
+
+
+#### Spring AutowireCandidateResolver 相关接口分析
+- [AutowireCandidateResolver](/docs/beans/factory/BeanFactory/support/AutowireCandidateResolver/Spring-AutowireCandidateResolver.md)
+- [ContextAnnotationAutowireCandidateResolver](/docs/beans/factory/BeanFactory/support/AutowireCandidateResolver/Spring-ContextAnnotationAutowireCandidateResolver-未完成.md)
+- [GenericTypeAwareAutowireCandidateResolver](/docs/beans/factory/BeanFactory/support/AutowireCandidateResolver/Spring-GenericTypeAwareAutowireCandidateResolver.md)
+- [QualifierAnnotationAutowireCandidateResolver](/docs/beans/factory/BeanFactory/support/AutowireCandidateResolver/Spring-QualifierAnnotationAutowireCandidateResolver.md)
+- [SimpleAutowireCandidateResolver](/docs/beans/factory/BeanFactory/support/AutowireCandidateResolver/Spring-SimpleAutowireCandidateResolver.md)
+
+
     
 
 ### SpringCore相关分析
@@ -198,6 +207,9 @@
     - [Spring-EmbeddedValueResolver](/docs/utils/StringValueResolver/Spring-EmbeddedValueResolver.md)
     - [Spring-PlaceholderResolvingStringValueResolver](/docs/utils/StringValueResolver/Spring-PlaceholderResolvingStringValueResolver.md)
     - [Spring-StaticStringValueResolver](/docs/utils/StringValueResolver/Spring-StaticStringValueResolver.md)
+
+- [ReflectionUtils](/docs/utils/Spring-ReflectionUtils.md)
+
 
 
 ### Spring 其他
