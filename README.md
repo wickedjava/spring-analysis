@@ -116,8 +116,17 @@
 - [QualifierAnnotationAutowireCandidateResolver](/docs/beans/factory/BeanFactory/support/AutowireCandidateResolver/Spring-QualifierAnnotationAutowireCandidateResolver.md)
 - [SimpleAutowireCandidateResolver](/docs/beans/factory/BeanFactory/support/AutowireCandidateResolver/Spring-SimpleAutowireCandidateResolver.md)
 
+#### Spring NamedBean 相关接口分析
+- [DependencyObjectProvider](/docs/beans/factory/BeanFactory/ObjectProvider/Spring-DependencyObjectProvider.md)
+- [Jsr330Provider](/docs/beans/factory/BeanFactory/ObjectProvider/Spring-Jsr330Provider.md)
+- [ObjectProvider](/docs/beans/factory/BeanFactory/ObjectProvider/Spring-ObjectProvider.md)
 
-    
+
+#### Spring ObjectProvider 相关接口分析
+- [ExposeBeanNameIntroduction](/docs/beans/factory/BeanFactory/NamedBean/Spring-ExposeBeanNameIntroduction.md)
+- [NamedBean](/docs/beans/factory/BeanFactory/NamedBean/Spring-NamedBean.md)
+- [NamedBeanHolder](/docs/beans/factory/BeanFactory/NamedBean/Spring-NamedBeanHolder.md)
+
 
 ### SpringCore相关分析
 #### Spring Registry 相关分析
@@ -209,8 +218,7 @@
     - [Spring-StaticStringValueResolver](/docs/utils/StringValueResolver/Spring-StaticStringValueResolver.md)
 
 - [ReflectionUtils](/docs/utils/Spring-ReflectionUtils.md)
-
-
+- [ConversionUtils](/docs/utils/Spring-ConversionUtils.md)
 
 ### Spring 其他
 - [循环依赖](/docs/other/重说循环依赖.md)

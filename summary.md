@@ -52,6 +52,15 @@
         - [SimpleJndiBeanFactory](/docs/beans/factory/BeanFactory/impl/Spring-SimpleJndiBeanFactory.md)
         - [AutowireCapableBeanFactory](/docs/beans/factory/BeanFactory/Spring-AutowireCapableBeanFactory.md)
         - [ListableBeanFactory](/docs/beans/factory/BeanFactory/Spring-ListableBeanFactory.md)
+    - [ObjectProvider](/docs/beans/factory/BeanFactory/ObjectProvider/Spring-ObjectProvider.md)
+      - [DependencyObjectProvider](/docs/beans/factory/BeanFactory/ObjectProvider/Spring-DependencyObjectProvider.md)
+      - [Jsr330Provider](/docs/beans/factory/BeanFactory/ObjectProvider/Spring-Jsr330Provider.md)
+      - [ObjectProvider](/docs/beans/factory/BeanFactory/ObjectProvider/Spring-ObjectProvider.md)
+
+    - [NamedBean](/docs/beans/factory/BeanFactory/NamedBean/Spring-NamedBean.md)
+      - [ExposeBeanNameIntroduction](/docs/beans/factory/BeanFactory/NamedBean/Spring-ExposeBeanNameIntroduction.md)
+      - [NamedBean](/docs/beans/factory/BeanFactory/NamedBean/Spring-NamedBean.md)
+      - [NamedBeanHolder](/docs/beans/factory/BeanFactory/NamedBean/Spring-NamedBeanHolder.md)
 
     - [GenericTypeAwarePropertyDescriptor](/docs/beans/GenericTypeAwarePropertyDescriptor/Spring-GenericTypeAwarePropertyDescriptor.md)
     
@@ -163,3 +172,4 @@
         - [Spring-PlaceholderResolvingStringValueResolver](/docs/utils/StringValueResolver/Spring-PlaceholderResolvingStringValueResolver.md)
         - [Spring-StaticStringValueResolver](/docs/utils/StringValueResolver/Spring-StaticStringValueResolver.md)
     - [ReflectionUtils](/docs/utils/Spring-ReflectionUtils.md)
+    - [ConversionUtils](/docs/utils/Spring-ConversionUtils.md)
