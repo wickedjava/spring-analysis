@@ -93,7 +93,8 @@
       - [QualifierAnnotationAutowireCandidateResolver](/docs/beans/factory/BeanFactory/support/AutowireCandidateResolver/Spring-QualifierAnnotationAutowireCandidateResolver.md)
       - [SimpleAutowireCandidateResolver](/docs/beans/factory/BeanFactory/support/AutowireCandidateResolver/Spring-SimpleAutowireCandidateResolver.md)
 
-
+    - [BeanDefinitionRegistry](/docs/beans/factory/BeanFactory/support/Spring-BeanDefinitionRegistry.md)
+    - [BeanNameGenerator](/docs/beans/factory/BeanFactory/support/Spring-BeanNameGenerator.md)
 
 - Spring Core
     - registry

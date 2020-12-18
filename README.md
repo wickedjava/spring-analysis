@@ -90,7 +90,9 @@
 - [CachedIntrospectionResults](/docs/beans/CachedIntrospectionResults/Spring-CachedIntrospectionResults.md)
 
     
-    
+#### Spring BeanName 
+- [BeanNameGenerator](/docs/beans/factory/BeanFactory/support/Spring-BeanNameGenerator.md)
+
     
 #### Spring BeanWrapper 相关接口分析    
 - [BeanWrapper导读](/docs/beans/BeanWrapper/Readme.md)
@@ -140,6 +142,8 @@
 - [FactoryBeanRegistrySupport](/docs/core/registry/Spring-FactoryBeanRegistrySupport.md)
 - [SimpleAliasRegistry](/docs/core/registry/Spring-SimpleAliasRegistry.md)
 - [SingletonBeanRegistry](/docs/core/registry/Spring-SingletonBeanRegistry.md)
+- [BeanDefinitionRegistry](/docs/beans/factory/BeanFactory/support/Spring-BeanDefinitionRegistry.md)
+
 
 #### Spring Convert 相关分析
 
